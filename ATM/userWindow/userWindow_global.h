@@ -1,0 +1,12 @@
+#ifndef USERWINDOW_GLOBAL_H
+#define USERWINDOW_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(USERWINDOW_LIBRARY)
+#define USERWINDOW_EXPORT Q_DECL_EXPORT
+#else
+#define USERWINDOW_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // USERWINDOW_GLOBAL_H

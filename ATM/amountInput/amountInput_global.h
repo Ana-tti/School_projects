@@ -1,0 +1,12 @@
+#ifndef AMOUNTINPUT_GLOBAL_H
+#define AMOUNTINPUT_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(AMOUNTINPUT_LIBRARY)
+#define AMOUNTINPUT_EXPORT Q_DECL_EXPORT
+#else
+#define AMOUNTINPUT_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // AMOUNTINPUT_GLOBAL_H

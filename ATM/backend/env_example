@@ -1,0 +1,3 @@
+//laita .env tiedostoon rivit
+MYSQL_SERVER='mysql://dbuser:dbpassword@127.0.0.1:3306/bankaccount_db'
+MY_TOKEN=u7QaG9++7TJ2dYI8tvPTFVi4K0xiaWuTSxFKMbkviMbvZmgMeRBjcJk3R/ge/XRYIsDwvp4NlNCH6XKJ+G0bMg==

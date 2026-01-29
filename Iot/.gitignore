@@ -1,0 +1,12 @@
+/ble_receiver/connect.py
+/ble_receiver/find_devices.py
+/ble_receiver/list_services.py
+/ble_receiver/measurements.csv
+/ble_receiver/service_scan.py
+/ble_receiver/notify_receiver.py
+/ble_receiver/toimiva_notify_tilaus.py
+TCP/db_conf.py
+TCP/__pycache__/
+TCP/animaatio.py
+raspberry_script/db_conf.py
+raspberry_script/__pycache__

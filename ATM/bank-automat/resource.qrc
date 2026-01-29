@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/translations">
+        <file>Kaannos_en_US.qm</file>
+        <file>Kaannos_fi_FI.qm</file>
+    </qresource>
+</RCC>
